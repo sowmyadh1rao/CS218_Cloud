@@ -1,0 +1,15 @@
+layout,occupancy,static,reconfigurable
+random,0.0,1.0,1.0
+random,0.1,0.97,1.0
+random,0.2,0.678,1.0
+random,0.3,0.29,1.0
+random,0.4,0.082,1.0
+random,0.5,0.004,1.0
+random,0.6,0.0,1.0
+packed,0.0,1.0,1.0
+packed,0.1,1.0,1.0
+packed,0.2,1.0,1.0
+packed,0.3,0.986,1.0
+packed,0.4,0.936,1.0
+packed,0.5,0.806,1.0
+packed,0.6,0.412,1.0
